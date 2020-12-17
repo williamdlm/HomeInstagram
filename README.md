@@ -9,6 +9,8 @@
 
 <br>
 
+![App Screenshot](https://res.cloudinary.com/dhmkfekt2/image/upload/v1608241433/home-instagram_xvxkhj.png)
+
 ## :rocket: Technologies
 <br>
 
